@@ -13,7 +13,6 @@ function Alert(props) {
       role="alert"
     >
       <strong>{capitalize(props.alert.type)}</strong>: {props.alert.msg} 
-      jfjfnjn
     </div>
   );
 }
